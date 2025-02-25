@@ -1,2 +1,1 @@
-Removed bitcoin to make script more lore-friendly
-Removed unnecessary prints
+Made WiFi minigame time configurable via wifi_config.lua
