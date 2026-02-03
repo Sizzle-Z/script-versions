@@ -1,1 +1,10 @@
-Optimization
+Cheque fraud system (new core feature)
+Printer connection minigame
+Adjustable speed for object placement
+
+
+Removed dependency on devm-minigames
+Optimized server-side code to reduce thread usage and improve performance
+
+Fixed police dispatch issues
+Updated version numbering to a clearer structure
